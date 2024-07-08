@@ -1,0 +1,17 @@
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.csproj.AssemblyReference.cache
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\PerlaMonahElias_projectCSC323.Form1.resources
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.csproj.GenerateResource.cache
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.AssemblyInfoInputs.cache
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.AssemblyInfo.cs
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.csproj.CoreCompileInputs.cache
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\bin\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.exe
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\bin\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.deps.json
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\bin\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.runtimeconfig.json
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\bin\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.dll
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\bin\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.pdb
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.dll
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\refint\PerlaMonahElias-projectCSC323.dll
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.pdb
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\PerlaMonahElias-projectCSC323.genruntimeconfig.cache
+C:\Users\Sahih\source\repos\PerlaMonahElias-projectCSC323\obj\Debug\net6.0-windows\ref\PerlaMonahElias-projectCSC323.dll

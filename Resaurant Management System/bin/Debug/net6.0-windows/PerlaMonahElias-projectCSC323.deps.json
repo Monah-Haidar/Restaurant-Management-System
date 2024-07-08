@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PerlaMonahElias-projectCSC323/1.0.0": {
+        "runtime": {
+          "PerlaMonahElias-projectCSC323.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PerlaMonahElias-projectCSC323/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
